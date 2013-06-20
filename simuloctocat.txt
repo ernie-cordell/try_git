@@ -1,0 +1,1 @@
+This was a useless file to mark unchanged/unindexed untracked, unimportant.  But now I've modified it and it appears to be treated as though no changes are being made.  Now that I have done this, I am able to copy the untracked file into one that I can use to test simultaneous pushing to 2 remotes.  
